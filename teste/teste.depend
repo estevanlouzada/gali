@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1424387318 source:c:\users\estevanlouzada\documents\programação\ex prova\teste\untitled3.c
+	<allegro.h>
+	<math.h>
+	<stdlib.h>
+	<stdio.h>
+	"arquivos.h"
+	"types_declarations.h"
+
+1424016597 c:\users\estevanlouzada\documents\programação\ex prova\teste\arquivos.h
+
+1424387438 c:\users\estevanlouzada\documents\programação\ex prova\teste\types_declarations.h
+
